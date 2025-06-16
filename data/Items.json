@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"animationId":0,"consumable":false,"damage":{"critical":true,"elementId":0,"formula":"7777771","type":1,"variance":100},"description":"Что это? Ты уже знаешь.","effects":[],"hitType":0,"iconIndex":3,"itypeId":2,"name":"Маджюга","note":"","occasion":0,"price":40000,"repeats":1,"scope":1,"speed":0,"successRate":100,"tpGain":0}
+]
